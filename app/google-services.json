@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971973167658",
+    "firebase_url": "https://another-chat-745c4.firebaseio.com",
+    "project_id": "another-chat-745c4",
+    "storage_bucket": "another-chat-745c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971973167658:android:6f2de3c311f5522bfa5153",
+        "android_client_info": {
+          "package_name": "com.sabre.anotherchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971973167658-i52s2fcrovns4mokqm6nalt0bgunkas4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8JOrJBRj4-sByhQYZNolUM1uanQAQO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971973167658-i52s2fcrovns4mokqm6nalt0bgunkas4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
