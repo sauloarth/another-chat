@@ -12,4 +12,14 @@
     <string name="username_text">Username</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_username_input">Username</string>
+    <string name="hint_email_input">Email</string>
+    <string name="hint_password_input">Password</string>
+    <string name="register_title_text">Register</string>
+    <string name="register_button_text">Confirm</string>
+    <string name="login_title_text">Login</string>
+    <string name="login_button_text">Start chatting</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="welcome_register_button_text">Register</string>
+    <string name="welcome_login_button_text">Login</string>
 </resources>
